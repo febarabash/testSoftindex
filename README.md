@@ -3,10 +3,10 @@ React/Redux table component with add-item form and filters.
 
 ## Stack:
 
--html
--css (PostCSS)
--js (React/Redux/Babel)
--module bundler (Webpack)
+* html
+* css (PostCSS)
+* js (React/Redux/Babel)
+* module bundler (Webpack)
 
 ## Task:
 
